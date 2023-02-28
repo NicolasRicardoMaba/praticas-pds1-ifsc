@@ -1,0 +1,58 @@
+1-Em programação, o que é uma biblioteca?
+
+R:Uma bibliteca é uma fonte externa de codigos fontes que contém métodos prontos que agilizam e evitam a repetição na hora de programar.
+
+2-O que é a biblioteca Swing do Java e qual é o seu propósito?
+
+R:A bibliotea Swing é uma biblioteca que contém métodos prontos para a criação de interfaces gráficas (desktop) tendo como objetivo simplificar o extensos e repetitivo método 
+
+3-Quais são os componentes de interface gráfica de usuário (GUI) fornecidos pela biblioteca Swing para:
+
+a)Botão
+
+JButton;
+
+b)Campo de Texto
+
+JTextField;
+
+c)Caixa de Seleção
+
+JCheckBox
+
+d)Barra de Progresso
+
+JProgressBar;
+
+e)Botão de Opção
+
+JOptionButton;
+
+f)Caixa de Combinação 
+
+JComboBox;
+
+
+
+4)Quais são os propósitos dos layouts no Swing? E quais são os layouts possíveis?
+
+R:Os layouts tem como propósito organizar e padronizar a posição dos elementos na janela ou painel feito com swing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
