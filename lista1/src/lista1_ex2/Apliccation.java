@@ -13,11 +13,12 @@ public class Apliccation {
 	for  (int i = 0; i < 10; i++) {
 	   String mensagem = JOptionPane.showInputDialog("Posição:"+(i+1));
 	   			lista.add(mensagem);
-	
 	}
-	
-		JOptionPane.showMessageDialog(null,"Lista:"+lista);
-
+	int i=0;
+	   	for (String listar : lista) {
+		
+	   		i++;
+	   		System.out.println("posição n_"+i+":"+listar);
+		}
 	}
-	
 }
